@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/UnrealEngine/Comfest/ElementalEncounters/ElementalEncounters/Content/ThirdPerson/Maps/Level_Kingdom.umap",
+				"C:/UnrealEngine/Comfest/ElementalEncounters/ElementalEncounters/Content/ThirdPerson/Maps/Fantasy_Kingdom_Map_Floors_only_Map1.uasset",
+				"C:/UnrealEngine/Comfest/ElementalEncounters/ElementalEncounters/Content/ThirdPerson/Maps/Fantasy_Kingdom_Map_Floors_only_Map2.uasset",
+				"C:/UnrealEngine/Comfest/ElementalEncounters/ElementalEncounters/Content/ThirdPerson/Maps/Fantasy_Kingdom_Map_Floors_only_Map3.uasset",
+				"C:/UnrealEngine/Comfest/ElementalEncounters/ElementalEncounters/Content/ThirdPerson/Maps/Fantasy_Kingdom_Map_Floors_only_Map4.uasset",
+				"C:/UnrealEngine/Comfest/ElementalEncounters/ElementalEncounters/Content/ThirdPerson/Maps/Fantasy_Kingdom_Map_Floors_only_Map5.uasset",
 				"D:/UE 5 Release/Project/ElementalEncounters/ElementalEncounters/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/UE 5 Release/Project/ElementalEncounters/ElementalEncounters/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/UE 5 Release/Project/ElementalEncounters/ElementalEncounters/Content/ThirdPerson/Blueprints/Interface/ReceiveDamage_Interface.uasset",
