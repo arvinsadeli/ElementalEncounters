@@ -4557,6 +4557,10 @@
 			"ChunkId": "f04cd85e3fc71aa700000001"
 		},
 		{
+			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/NewBlueprint.uasset",
+			"ChunkId": "5cb71891485ab6c000000001"
+		},
+		{
 			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/Player_BP.uasset",
 			"ChunkId": "5a806eac6a697a2100000001"
 		},
@@ -4609,12 +4613,32 @@
 			"ChunkId": "f9bd56c80478250200000001"
 		},
 		{
+			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/Widget/KeybindA_Widget.uasset",
+			"ChunkId": "90bacd9617ca237d00000001"
+		},
+		{
+			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/Widget/KeybindD_Widget.uasset",
+			"ChunkId": "71f5d23a06f4212700000001"
+		},
+		{
+			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/Widget/KeybindS_Widget.uasset",
+			"ChunkId": "dd5d0871c2195db700000001"
+		},
+		{
+			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/Widget/KeybindW_Widget.uasset",
+			"ChunkId": "64d6f6eeff05e88a00000001"
+		},
+		{
 			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/Widget/MainMenu_Widget.uasset",
 			"ChunkId": "c9a7e546898dab0200000001"
 		},
 		{
 			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/Widget/RangeTutor.uasset",
 			"ChunkId": "eab3db5f1071cb3100000001"
+		},
+		{
+			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/Widget/Warning_Widget.uasset",
+			"ChunkId": "f1fb987fef773b7e00000001"
 		},
 		{
 			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/Widget/Win_Widget.uasset",
@@ -14306,6 +14330,12 @@
 			]
 		},
 		{
+			"Name": "/Game/ThirdPerson/Blueprints/NewBlueprint",
+			"ExportBundleChunkIds": [
+				"5cb71891485ab6c000000001"
+			]
+		},
+		{
 			"Name": "/Game/ThirdPerson/Blueprints/Player_BP",
 			"ExportBundleChunkIds": [
 				"5a806eac6a697a2100000001"
@@ -14384,16 +14414,28 @@
 			]
 		},
 		{
-			"Name": "/Game/ThirdPerson/Blueprints/Widget/KeybindA_Widget"
+			"Name": "/Game/ThirdPerson/Blueprints/Widget/KeybindA_Widget",
+			"ExportBundleChunkIds": [
+				"90bacd9617ca237d00000001"
+			]
 		},
 		{
-			"Name": "/Game/ThirdPerson/Blueprints/Widget/KeybindD_Widget"
+			"Name": "/Game/ThirdPerson/Blueprints/Widget/KeybindD_Widget",
+			"ExportBundleChunkIds": [
+				"71f5d23a06f4212700000001"
+			]
 		},
 		{
-			"Name": "/Game/ThirdPerson/Blueprints/Widget/KeybindS_Widget"
+			"Name": "/Game/ThirdPerson/Blueprints/Widget/KeybindS_Widget",
+			"ExportBundleChunkIds": [
+				"dd5d0871c2195db700000001"
+			]
 		},
 		{
-			"Name": "/Game/ThirdPerson/Blueprints/Widget/KeybindW_Widget"
+			"Name": "/Game/ThirdPerson/Blueprints/Widget/KeybindW_Widget",
+			"ExportBundleChunkIds": [
+				"64d6f6eeff05e88a00000001"
+			]
 		},
 		{
 			"Name": "/Game/ThirdPerson/Blueprints/Widget/MainMenu_Widget",
@@ -14408,7 +14450,10 @@
 			]
 		},
 		{
-			"Name": "/Game/ThirdPerson/Blueprints/Widget/Warning_Widget"
+			"Name": "/Game/ThirdPerson/Blueprints/Widget/Warning_Widget",
+			"ExportBundleChunkIds": [
+				"f1fb987fef773b7e00000001"
+			]
 		},
 		{
 			"Name": "/Game/ThirdPerson/Blueprints/Widget/Win_Widget",
