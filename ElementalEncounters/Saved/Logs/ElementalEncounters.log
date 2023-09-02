@@ -7280,3 +7280,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.02-12.40.10:687][173]AssetCheck: New page: Asset Save: Level_Kingdom1
 [2023.09.02-12.40.10:687][173]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Level_Kingdom1.Level_Kingdom1
 [2023.09.02-12.40.49:427][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.09.02-12.40.59:837][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
