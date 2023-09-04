@@ -1,10 +1,6 @@
 {
 	"Files": [
 		{
-			"Path": "ElementalEncounters/Content/Assets/Basalt.uasset",
-			"ChunkId": "2601dd706fcd983600000001"
-		},
-		{
 			"Path": "ElementalEncounters/Content/Assets/crystal/aIR/Air.uasset",
 			"ChunkId": "7bd86546eef70fe400000001"
 		},
@@ -269,42 +265,6 @@
 			"ChunkId": "3589f18fa89d58e900000001"
 		},
 		{
-			"Path": "ElementalEncounters/Content/Assets/CrystalLava/Crystal_Lava.uasset",
-			"ChunkId": "be02c6f2aa34ebfa00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/CrystalLava/Crystal_Lava.ubulk",
-			"ChunkId": "be02c6f2aa34ebfa00000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/CrystalLava/Crystal_Lava_DefaultMaterial_BaseColor.uasset",
-			"ChunkId": "328225ebc5b1ad4600000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/CrystalLava/Crystal_Lava_DefaultMaterial_BaseColor.ubulk",
-			"ChunkId": "328225ebc5b1ad4600000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/CrystalLava/Crystal_Lava_DefaultMaterial_Normal.uasset",
-			"ChunkId": "3a45b2f5628b8fcd00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/CrystalLava/Crystal_Lava_DefaultMaterial_Normal.ubulk",
-			"ChunkId": "3a45b2f5628b8fcd00000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/CrystalLava/Crystal_Lava_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
-			"ChunkId": "7208fc55c85fb8c300000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/CrystalLava/Crystal_Lava_DefaultMaterial_OcclusionRoughnessMetallic.ubulk",
-			"ChunkId": "7208fc55c85fb8c300000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/CrystalLava/Crystal_mm.uasset",
-			"ChunkId": "5f7fe551e7b3a3c100000001"
-		},
-		{
 			"Path": "ElementalEncounters/Content/Assets/dirt/Dirt.uasset",
 			"ChunkId": "0d9dc635dbf49b9c00000001"
 		},
@@ -391,14 +351,6 @@
 		{
 			"Path": "ElementalEncounters/Content/Assets/grass/Grass.uasset",
 			"ChunkId": "2e2cc1f58f8a1abc00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/Lava.uasset",
-			"ChunkId": "68a58a4a434e949200000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/Lava_Inst.uasset",
-			"ChunkId": "9d6eac868a6ff09100000001"
 		},
 		{
 			"Path": "ElementalEncounters/Content/Assets/mc_Texttures/Mc_Textures/Main_Chara_Material_001_BaseColor.uasset",
@@ -533,30 +485,6 @@
 			"ChunkId": "9caa5fa939842a7800000002"
 		},
 		{
-			"Path": "ElementalEncounters/Content/Assets/Niagara/Attack/Light/Light_MI.uasset",
-			"ChunkId": "29de0db300671ebc00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/Niagara/Attack/Light/LightExplosion_NS.uasset",
-			"ChunkId": "16d96168580253a400000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/Niagara/Attack/Light/SM_Light.uasset",
-			"ChunkId": "a57d3da13e7b803a00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/Niagara/Attack/Light/SM_Light.ubulk",
-			"ChunkId": "a57d3da13e7b803a00000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/Niagara/Attack/Light/SM_LightCube.uasset",
-			"ChunkId": "10cea4406f49cc5000000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/Niagara/Attack/Light/SM_LightCube.ubulk",
-			"ChunkId": "10cea4406f49cc5000000002"
-		},
-		{
 			"Path": "ElementalEncounters/Content/Assets/Niagara/Attack/Water/Ice_M.uasset",
 			"ChunkId": "ddd3e84df0da4de200000001"
 		},
@@ -607,6 +535,10 @@
 		{
 			"Path": "ElementalEncounters/Content/Assets/Niagara/Attack/Water/T_IceExplosion.ubulk",
 			"ChunkId": "99b75df0aa0915cc00000002"
+		},
+		{
+			"Path": "ElementalEncounters/Content/Assets/Niagara/Attack/Wind/WindExplosion_NS.uasset",
+			"ChunkId": "7ac3ec0739c9334900000001"
 		},
 		{
 			"Path": "ElementalEncounters/Content/Assets/Niagara/Aura/AirAura_NS.uasset",
@@ -945,14 +877,6 @@
 			"ChunkId": "2699c0b1beb9b82c00000002"
 		},
 		{
-			"Path": "ElementalEncounters/Content/Assets/rOCKS/Lava_Floor_Only.uasset",
-			"ChunkId": "806d95fff2d967af00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/rOCKS/Lava_Floor_Only.ubulk",
-			"ChunkId": "806d95fff2d967af00000002"
-		},
-		{
 			"Path": "ElementalEncounters/Content/Assets/rOCKS/rOCK.uasset",
 			"ChunkId": "88d2b205bc51de5800000001"
 		},
@@ -989,10 +913,6 @@
 			"ChunkId": "8d5591494b62506200000002"
 		},
 		{
-			"Path": "ElementalEncounters/Content/Assets/rOCKS/Rocks.uasset",
-			"ChunkId": "2d13818ce8575ed400000001"
-		},
-		{
 			"Path": "ElementalEncounters/Content/Assets/rOCKS/ROCKS_Box154.uasset",
 			"ChunkId": "d4f677e04eeec6e400000001"
 		},
@@ -1007,50 +927,6 @@
 		{
 			"Path": "ElementalEncounters/Content/Assets/rOCKS/ROCKS_Box155.ubulk",
 			"ChunkId": "69914afdb3bff44200000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/rOCKS/ROCKSs.uasset",
-			"ChunkId": "0dc08228fec3041e00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/rOCKS/ROCKSs.ubulk",
-			"ChunkId": "0dc08228fec3041e00000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/rOCKS/ROCKSs_DefaultMaterial_BaseColor.uasset",
-			"ChunkId": "3bdfa4696844751e00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/rOCKS/ROCKSs_DefaultMaterial_BaseColor.ubulk",
-			"ChunkId": "3bdfa4696844751e00000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/rOCKS/ROCKSs_DefaultMaterial_Normal.uasset",
-			"ChunkId": "a45c40a94273aeb900000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/rOCKS/ROCKSs_DefaultMaterial_Normal.ubulk",
-			"ChunkId": "a45c40a94273aeb900000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/rOCKS/ROCKSs_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
-			"ChunkId": "89434e5b3c97c95800000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/rOCKS/ROCKSs_DefaultMaterial_OcclusionRoughnessMetallic.ubulk",
-			"ChunkId": "89434e5b3c97c95800000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/rOCKS/WorldGridMaterial.uasset",
-			"ChunkId": "7a11cfd81177e9e100000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/Terrain/Bawah_tanah.uasset",
-			"ChunkId": "fcdb08c37e20818c00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/Terrain/Bawah_tanah.ubulk",
-			"ChunkId": "fcdb08c37e20818c00000002"
 		},
 		{
 			"Path": "ElementalEncounters/Content/Assets/Texture/T_Fire.uasset",
@@ -1069,60 +945,12 @@
 			"ChunkId": "547607165360031700000002"
 		},
 		{
-			"Path": "ElementalEncounters/Content/Assets/textures/Lava.uasset",
-			"ChunkId": "cdeb772d8f9222f100000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/textures/Lava_001_COLOR.uasset",
-			"ChunkId": "7e922074ac8a1eba00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/textures/Lava_001_COLOR.ubulk",
-			"ChunkId": "7e922074ac8a1eba00000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/textures/Lava_001_DISP.uasset",
-			"ChunkId": "8c59ebaf9c48a60e00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/textures/Lava_001_DISP.ubulk",
-			"ChunkId": "8c59ebaf9c48a60e00000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/textures/Lava_001_NRM.uasset",
-			"ChunkId": "f193267a5fde444a00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/textures/Lava_001_NRM.ubulk",
-			"ChunkId": "f193267a5fde444a00000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/textures/Lava_001_OCC.uasset",
-			"ChunkId": "579bf8540420d37900000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/textures/Lava_001_OCC.ubulk",
-			"ChunkId": "579bf8540420d37900000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/textures/Lava_001_SPEC.uasset",
-			"ChunkId": "7c7cf4d7c75b31f400000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/textures/Lava_001_SPEC.ubulk",
-			"ChunkId": "7c7cf4d7c75b31f400000002"
-		},
-		{
 			"Path": "ElementalEncounters/Content/Assets/Town/2x2.uasset",
 			"ChunkId": "e3235eab4262f97300000001"
 		},
 		{
 			"Path": "ElementalEncounters/Content/Assets/Town/2X3.uasset",
 			"ChunkId": "806aa0ce91da15ab00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/Town/2x4.uasset",
-			"ChunkId": "8c46421c4f595a9600000001"
 		},
 		{
 			"Path": "ElementalEncounters/Content/Assets/Town/bridge.uasset",
@@ -1183,14 +1011,6 @@
 		{
 			"Path": "ElementalEncounters/Content/Assets/Town/building_2x2_DefaultMaterial_BaseColor.ubulk",
 			"ChunkId": "e7b9777e3b3de50700000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/Town/building_2x2_DefaultMaterial_BaseColor1.uasset",
-			"ChunkId": "5f2eba65f61b824500000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/Town/building_2x2_DefaultMaterial_BaseColor1.ubulk",
-			"ChunkId": "5f2eba65f61b824500000002"
 		},
 		{
 			"Path": "ElementalEncounters/Content/Assets/Town/building_2x2_DefaultMaterial_Emissive.uasset",
@@ -1255,14 +1075,6 @@
 		{
 			"Path": "ElementalEncounters/Content/Assets/Town/Building_2x3_DefaultMaterial_OcclusionRoughnessMetallic.ubulk",
 			"ChunkId": "ca23813fbd4820a300000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/Town/building_2x4.uasset",
-			"ChunkId": "e915caf12a95100a00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/Town/building_2x4.ubulk",
-			"ChunkId": "e915caf12a95100a00000002"
 		},
 		{
 			"Path": "ElementalEncounters/Content/Assets/Town/edge.uasset",
@@ -1367,10 +1179,6 @@
 		{
 			"Path": "ElementalEncounters/Content/Assets/Tress/Trees.ubulk",
 			"ChunkId": "3bb4ad4b0fbac0ff00000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/Assets/UI/Credit.uasset",
-			"ChunkId": "629e0b4301c0b7fe00000001"
 		},
 		{
 			"Path": "ElementalEncounters/Content/Assets/UI/GameplayUI/Air.uasset",
@@ -2825,10 +2633,6 @@
 			"ChunkId": "fbae1096b117636b00000001"
 		},
 		{
-			"Path": "ElementalEncounters/Content/Material/AttackRange_M.uasset",
-			"ChunkId": "6e7955ce3bbb79d000000001"
-		},
-		{
 			"Path": "ElementalEncounters/Content/Material/BasicColor_M.uasset",
 			"ChunkId": "ffb4364aa57071fe00000001"
 		},
@@ -2949,20 +2753,20 @@
 			"ChunkId": "3cd5c42e08289e7800000002"
 		},
 		{
+			"Path": "ElementalEncounters/Content/StarterContent/Audio/BGM_MainMenu.uasset",
+			"ChunkId": "2427ecf28fa635bf00000001"
+		},
+		{
+			"Path": "ElementalEncounters/Content/StarterContent/Audio/BGM_MainMenu.ubulk",
+			"ChunkId": "2427ecf28fa635bf00000002"
+		},
+		{
 			"Path": "ElementalEncounters/Content/StarterContent/Audio/BGMGameplayEE__mp3cut_net_.uasset",
 			"ChunkId": "4764446907d06aa100000001"
 		},
 		{
 			"Path": "ElementalEncounters/Content/StarterContent/Audio/BGMGameplayEE__mp3cut_net_.ubulk",
 			"ChunkId": "4764446907d06aa100000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/StarterContent/Audio/BGMMainMenu.uasset",
-			"ChunkId": "26290672633244a600000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/StarterContent/Audio/BGMMainMenu.ubulk",
-			"ChunkId": "26290672633244a600000002"
 		},
 		{
 			"Path": "ElementalEncounters/Content/StarterContent/Audio/Blast__mp3cut_net___1_.uasset",
@@ -3513,6 +3317,10 @@
 			"ChunkId": "d9b417805ca28c3b00000001"
 		},
 		{
+			"Path": "ElementalEncounters/Content/StarterContent/Particles/P_LightExplosion.uasset",
+			"ChunkId": "8f70112f68aecab000000001"
+		},
+		{
 			"Path": "ElementalEncounters/Content/StarterContent/Particles/P_Smoke.uasset",
 			"ChunkId": "1a319e90fcce3b1e00000001"
 		},
@@ -3523,10 +3331,6 @@
 		{
 			"Path": "ElementalEncounters/Content/StarterContent/Particles/P_Steam_Lit.uasset",
 			"ChunkId": "84816d3b2f78cf0700000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/StarterContent/Particles/P_WindExplosion.uasset",
-			"ChunkId": "7944fd977c943dd900000001"
 		},
 		{
 			"Path": "ElementalEncounters/Content/StarterContent/Props/Materials/M_Bush.uasset",
@@ -4713,10 +4517,6 @@
 			"ChunkId": "eefdcae1565eb12500000001"
 		},
 		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/CreditScene_BP.uasset",
-			"ChunkId": "d88302a5ae2757a900000001"
-		},
-		{
 			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/Element_BP.uasset",
 			"ChunkId": "593c4f4f76a7ad2b00000001"
 		},
@@ -4731,10 +4531,6 @@
 		{
 			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/GameInstance_BP.uasset",
 			"ChunkId": "1837bf1865b0baa700000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/GameMode/CreditScene_GameMode.uasset",
-			"ChunkId": "e89476e0588cc35000000001"
 		},
 		{
 			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/GameMode/Gameplay_GameMode.uasset",
@@ -4779,10 +4575,6 @@
 		{
 			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/Widget/AmmoTutor_Widget.uasset",
 			"ChunkId": "55745e6b2ec658d300000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/Widget/CreditScene_Widget.uasset",
-			"ChunkId": "32b3dfe964e095ec00000001"
 		},
 		{
 			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/Widget/ElementGuide_Widget.uasset",
@@ -4837,10 +4629,6 @@
 			"ChunkId": "64d6f6eeff05e88a00000001"
 		},
 		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/Widget/LoadingWidget_BP.uasset",
-			"ChunkId": "32c07c469244b8aa00000001"
-		},
-		{
 			"Path": "ElementalEncounters/Content/ThirdPerson/Blueprints/Widget/MainMenu_Widget.uasset",
 			"ChunkId": "c9a7e546898dab0200000001"
 		},
@@ -4875,10 +4663,6 @@
 		{
 			"Path": "ElementalEncounters/Content/ThirdPerson/Input/IMC_Default.uasset",
 			"ChunkId": "146cacb33d822f4400000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Maps/CreditScene.umap",
-			"ChunkId": "b0c533b43b3fd14100000001"
 		},
 		{
 			"Path": "ElementalEncounters/Content/ThirdPerson/Maps/Fantasy_Forest_Map_Floors_only_Map1Forest.uasset",
@@ -4977,14 +4761,6 @@
 			"ChunkId": "0210087961c7e9d600000002"
 		},
 		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Maps/Level_LavaCaverns.umap",
-			"ChunkId": "0d02296ba264bb7500000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Maps/LoadingScreen.umap",
-			"ChunkId": "01a81e3be014236300000001"
-		},
-		{
 			"Path": "ElementalEncounters/Content/ThirdPerson/Maps/MainMenu.umap",
 			"ChunkId": "03338a6caccc052f00000001"
 		},
@@ -5011,46 +4787,6 @@
 		{
 			"Path": "ElementalEncounters/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.ubulk",
 			"ChunkId": "0e473a8317c34d1100000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Maps/Volcanic_Caverns_Map_Floors_only_Map1Lava.uasset",
-			"ChunkId": "a0dd767e103dd26000000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Maps/Volcanic_Caverns_Map_Floors_only_Map1Lava.ubulk",
-			"ChunkId": "a0dd767e103dd26000000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Maps/Volcanic_Caverns_Map_Floors_only_Map2Lava.uasset",
-			"ChunkId": "cf3d465176ef85cc00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Maps/Volcanic_Caverns_Map_Floors_only_Map2Lava.ubulk",
-			"ChunkId": "cf3d465176ef85cc00000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Maps/Volcanic_Caverns_Map_Floors_only_Map3Lava.uasset",
-			"ChunkId": "8a8e461d7a4e5d5e00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Maps/Volcanic_Caverns_Map_Floors_only_Map3Lava.ubulk",
-			"ChunkId": "8a8e461d7a4e5d5e00000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Maps/Volcanic_Caverns_Map_Floors_only_Map4Lava.uasset",
-			"ChunkId": "f423f201f3d4168f00000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Maps/Volcanic_Caverns_Map_Floors_only_Map4Lava.ubulk",
-			"ChunkId": "f423f201f3d4168f00000002"
-		},
-		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Maps/Volcanic_Caverns_Map_Floors_only_Map5Lava.uasset",
-			"ChunkId": "b59709add1ddbda800000001"
-		},
-		{
-			"Path": "ElementalEncounters/Content/ThirdPerson/Maps/Volcanic_Caverns_Map_Floors_only_Map5Lava.ubulk",
-			"ChunkId": "b59709add1ddbda800000002"
 		},
 		{
 			"Path": "ElementalEncounters/Content/ThirdPerson/Textures/Fantasy_Kingsomd/Floor_DefaultMaterial_BaseColor.uasset",
@@ -8825,12 +8561,6 @@
 			"Name": "/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC"
 		},
 		{
-			"Name": "/Game/Assets/Basalt",
-			"ExportBundleChunkIds": [
-				"2601dd706fcd983600000001"
-			]
-		},
-		{
 			"Name": "/Game/Assets/crystal/aIR/Air",
 			"ExportBundleChunkIds": [
 				"7bd86546eef70fe400000001"
@@ -9137,48 +8867,6 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/CrystalLava/Crystal_Lava",
-			"ExportBundleChunkIds": [
-				"be02c6f2aa34ebfa00000001"
-			],
-			"BulkDataChunkIds": [
-				"be02c6f2aa34ebfa00000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/CrystalLava/Crystal_Lava_DefaultMaterial_BaseColor",
-			"ExportBundleChunkIds": [
-				"328225ebc5b1ad4600000001"
-			],
-			"BulkDataChunkIds": [
-				"328225ebc5b1ad4600000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/CrystalLava/Crystal_Lava_DefaultMaterial_Normal",
-			"ExportBundleChunkIds": [
-				"3a45b2f5628b8fcd00000001"
-			],
-			"BulkDataChunkIds": [
-				"3a45b2f5628b8fcd00000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/CrystalLava/Crystal_Lava_DefaultMaterial_OcclusionRoughnessMetallic",
-			"ExportBundleChunkIds": [
-				"7208fc55c85fb8c300000001"
-			],
-			"BulkDataChunkIds": [
-				"7208fc55c85fb8c300000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/CrystalLava/Crystal_mm",
-			"ExportBundleChunkIds": [
-				"5f7fe551e7b3a3c100000001"
-			]
-		},
-		{
 			"Name": "/Game/Assets/dirt/Dirt",
 			"ExportBundleChunkIds": [
 				"0d9dc635dbf49b9c00000001"
@@ -9287,18 +8975,6 @@
 			"Name": "/Game/Assets/grass/Grass",
 			"ExportBundleChunkIds": [
 				"2e2cc1f58f8a1abc00000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Lava",
-			"ExportBundleChunkIds": [
-				"68a58a4a434e949200000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Lava_Inst",
-			"ExportBundleChunkIds": [
-				"9d6eac868a6ff09100000001"
 			]
 		},
 		{
@@ -9464,36 +9140,6 @@
 			"Name": "/Game/Assets/Niagara/Attack/Earth/SM_rocks"
 		},
 		{
-			"Name": "/Game/Assets/Niagara/Attack/Light/Light_MI",
-			"ExportBundleChunkIds": [
-				"29de0db300671ebc00000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Niagara/Attack/Light/LightExplosion_NS",
-			"ExportBundleChunkIds": [
-				"16d96168580253a400000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Niagara/Attack/Light/SM_Light",
-			"ExportBundleChunkIds": [
-				"a57d3da13e7b803a00000001"
-			],
-			"BulkDataChunkIds": [
-				"a57d3da13e7b803a00000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Niagara/Attack/Light/SM_LightCube",
-			"ExportBundleChunkIds": [
-				"10cea4406f49cc5000000001"
-			],
-			"BulkDataChunkIds": [
-				"10cea4406f49cc5000000002"
-			]
-		},
-		{
 			"Name": "/Game/Assets/Niagara/Attack/Water/Ice_M",
 			"ExportBundleChunkIds": [
 				"ddd3e84df0da4de200000001"
@@ -9557,6 +9203,12 @@
 			],
 			"BulkDataChunkIds": [
 				"99b75df0aa0915cc00000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Niagara/Attack/Wind/WindExplosion_NS",
+			"ExportBundleChunkIds": [
+				"7ac3ec0739c9334900000001"
 			]
 		},
 		{
@@ -9968,15 +9620,6 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/rOCKS/Lava_Floor_Only",
-			"ExportBundleChunkIds": [
-				"806d95fff2d967af00000001"
-			],
-			"BulkDataChunkIds": [
-				"806d95fff2d967af00000002"
-			]
-		},
-		{
 			"Name": "/Game/Assets/rOCKS/rOCK",
 			"ExportBundleChunkIds": [
 				"88d2b205bc51de5800000001"
@@ -10019,12 +9662,6 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/rOCKS/Rocks",
-			"ExportBundleChunkIds": [
-				"2d13818ce8575ed400000001"
-			]
-		},
-		{
 			"Name": "/Game/Assets/rOCKS/ROCKS_Box154",
 			"ExportBundleChunkIds": [
 				"d4f677e04eeec6e400000001"
@@ -10040,57 +9677,6 @@
 			],
 			"BulkDataChunkIds": [
 				"69914afdb3bff44200000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/rOCKS/ROCKSs",
-			"ExportBundleChunkIds": [
-				"0dc08228fec3041e00000001"
-			],
-			"BulkDataChunkIds": [
-				"0dc08228fec3041e00000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/rOCKS/ROCKSs_DefaultMaterial_BaseColor",
-			"ExportBundleChunkIds": [
-				"3bdfa4696844751e00000001"
-			],
-			"BulkDataChunkIds": [
-				"3bdfa4696844751e00000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/rOCKS/ROCKSs_DefaultMaterial_Normal",
-			"ExportBundleChunkIds": [
-				"a45c40a94273aeb900000001"
-			],
-			"BulkDataChunkIds": [
-				"a45c40a94273aeb900000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/rOCKS/ROCKSs_DefaultMaterial_OcclusionRoughnessMetallic",
-			"ExportBundleChunkIds": [
-				"89434e5b3c97c95800000001"
-			],
-			"BulkDataChunkIds": [
-				"89434e5b3c97c95800000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/rOCKS/WorldGridMaterial",
-			"ExportBundleChunkIds": [
-				"7a11cfd81177e9e100000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Terrain/Bawah_tanah",
-			"ExportBundleChunkIds": [
-				"fcdb08c37e20818c00000001"
-			],
-			"BulkDataChunkIds": [
-				"fcdb08c37e20818c00000002"
 			]
 		},
 		{
@@ -10112,57 +9698,6 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/textures/Lava",
-			"ExportBundleChunkIds": [
-				"cdeb772d8f9222f100000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/textures/Lava_001_COLOR",
-			"ExportBundleChunkIds": [
-				"7e922074ac8a1eba00000001"
-			],
-			"BulkDataChunkIds": [
-				"7e922074ac8a1eba00000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/textures/Lava_001_DISP",
-			"ExportBundleChunkIds": [
-				"8c59ebaf9c48a60e00000001"
-			],
-			"BulkDataChunkIds": [
-				"8c59ebaf9c48a60e00000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/textures/Lava_001_NRM",
-			"ExportBundleChunkIds": [
-				"f193267a5fde444a00000001"
-			],
-			"BulkDataChunkIds": [
-				"f193267a5fde444a00000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/textures/Lava_001_OCC",
-			"ExportBundleChunkIds": [
-				"579bf8540420d37900000001"
-			],
-			"BulkDataChunkIds": [
-				"579bf8540420d37900000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/textures/Lava_001_SPEC",
-			"ExportBundleChunkIds": [
-				"7c7cf4d7c75b31f400000001"
-			],
-			"BulkDataChunkIds": [
-				"7c7cf4d7c75b31f400000002"
-			]
-		},
-		{
 			"Name": "/Game/Assets/Town/2x2",
 			"ExportBundleChunkIds": [
 				"e3235eab4262f97300000001"
@@ -10172,12 +9707,6 @@
 			"Name": "/Game/Assets/Town/2X3",
 			"ExportBundleChunkIds": [
 				"806aa0ce91da15ab00000001"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Town/2x4",
-			"ExportBundleChunkIds": [
-				"8c46421c4f595a9600000001"
 			]
 		},
 		{
@@ -10250,15 +9779,6 @@
 			]
 		},
 		{
-			"Name": "/Game/Assets/Town/building_2x2_DefaultMaterial_BaseColor1",
-			"ExportBundleChunkIds": [
-				"5f2eba65f61b824500000001"
-			],
-			"BulkDataChunkIds": [
-				"5f2eba65f61b824500000002"
-			]
-		},
-		{
 			"Name": "/Game/Assets/Town/building_2x2_DefaultMaterial_Emissive",
 			"ExportBundleChunkIds": [
 				"0513735297454bb300000001"
@@ -10328,15 +9848,6 @@
 			],
 			"BulkDataChunkIds": [
 				"ca23813fbd4820a300000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/Town/building_2x4",
-			"ExportBundleChunkIds": [
-				"e915caf12a95100a00000001"
-			],
-			"BulkDataChunkIds": [
-				"e915caf12a95100a00000002"
 			]
 		},
 		{
@@ -10460,12 +9971,6 @@
 			],
 			"BulkDataChunkIds": [
 				"3bb4ad4b0fbac0ff00000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/UI/Credit",
-			"ExportBundleChunkIds": [
-				"629e0b4301c0b7fe00000001"
 			]
 		},
 		{
@@ -12470,12 +11975,6 @@
 			]
 		},
 		{
-			"Name": "/Game/Material/AttackRange_M",
-			"ExportBundleChunkIds": [
-				"6e7955ce3bbb79d000000001"
-			]
-		},
-		{
 			"Name": "/Game/Material/BasicColor_M",
 			"ExportBundleChunkIds": [
 				"ffb4364aa57071fe00000001"
@@ -12620,21 +12119,21 @@
 			]
 		},
 		{
+			"Name": "/Game/StarterContent/Audio/BGM_MainMenu",
+			"ExportBundleChunkIds": [
+				"2427ecf28fa635bf00000001"
+			],
+			"BulkDataChunkIds": [
+				"2427ecf28fa635bf00000002"
+			]
+		},
+		{
 			"Name": "/Game/StarterContent/Audio/BGMGameplayEE__mp3cut_net_",
 			"ExportBundleChunkIds": [
 				"4764446907d06aa100000001"
 			],
 			"BulkDataChunkIds": [
 				"4764446907d06aa100000002"
-			]
-		},
-		{
-			"Name": "/Game/StarterContent/Audio/BGMMainMenu",
-			"ExportBundleChunkIds": [
-				"26290672633244a600000001"
-			],
-			"BulkDataChunkIds": [
-				"26290672633244a600000002"
 			]
 		},
 		{
@@ -13382,6 +12881,12 @@
 			]
 		},
 		{
+			"Name": "/Game/StarterContent/Particles/P_LightExplosion",
+			"ExportBundleChunkIds": [
+				"8f70112f68aecab000000001"
+			]
+		},
+		{
 			"Name": "/Game/StarterContent/Particles/P_Smoke",
 			"ExportBundleChunkIds": [
 				"1a319e90fcce3b1e00000001"
@@ -13397,12 +12902,6 @@
 			"Name": "/Game/StarterContent/Particles/P_Steam_Lit",
 			"ExportBundleChunkIds": [
 				"84816d3b2f78cf0700000001"
-			]
-		},
-		{
-			"Name": "/Game/StarterContent/Particles/P_WindExplosion",
-			"ExportBundleChunkIds": [
-				"7944fd977c943dd900000001"
 			]
 		},
 		{
@@ -14771,12 +14270,6 @@
 			]
 		},
 		{
-			"Name": "/Game/ThirdPerson/Blueprints/CreditScene_BP",
-			"ExportBundleChunkIds": [
-				"d88302a5ae2757a900000001"
-			]
-		},
-		{
 			"Name": "/Game/ThirdPerson/Blueprints/Element_BP",
 			"ExportBundleChunkIds": [
 				"593c4f4f76a7ad2b00000001"
@@ -14798,12 +14291,6 @@
 			"Name": "/Game/ThirdPerson/Blueprints/GameInstance_BP",
 			"ExportBundleChunkIds": [
 				"1837bf1865b0baa700000001"
-			]
-		},
-		{
-			"Name": "/Game/ThirdPerson/Blueprints/GameMode/CreditScene_GameMode",
-			"ExportBundleChunkIds": [
-				"e89476e0588cc35000000001"
 			]
 		},
 		{
@@ -14870,12 +14357,6 @@
 			"Name": "/Game/ThirdPerson/Blueprints/Widget/AmmoTutor_Widget",
 			"ExportBundleChunkIds": [
 				"55745e6b2ec658d300000001"
-			]
-		},
-		{
-			"Name": "/Game/ThirdPerson/Blueprints/Widget/CreditScene_Widget",
-			"ExportBundleChunkIds": [
-				"32b3dfe964e095ec00000001"
 			]
 		},
 		{
@@ -14957,12 +14438,6 @@
 			]
 		},
 		{
-			"Name": "/Game/ThirdPerson/Blueprints/Widget/LoadingWidget_BP",
-			"ExportBundleChunkIds": [
-				"32c07c469244b8aa00000001"
-			]
-		},
-		{
 			"Name": "/Game/ThirdPerson/Blueprints/Widget/MainMenu_Widget",
 			"ExportBundleChunkIds": [
 				"c9a7e546898dab0200000001"
@@ -15014,12 +14489,6 @@
 			"Name": "/Game/ThirdPerson/Input/IMC_Default",
 			"ExportBundleChunkIds": [
 				"146cacb33d822f4400000001"
-			]
-		},
-		{
-			"Name": "/Game/ThirdPerson/Maps/CreditScene",
-			"ExportBundleChunkIds": [
-				"b0c533b43b3fd14100000001"
 			]
 		},
 		{
@@ -15134,18 +14603,6 @@
 			]
 		},
 		{
-			"Name": "/Game/ThirdPerson/Maps/Level_LavaCaverns",
-			"ExportBundleChunkIds": [
-				"0d02296ba264bb7500000001"
-			]
-		},
-		{
-			"Name": "/Game/ThirdPerson/Maps/LoadingScreen",
-			"ExportBundleChunkIds": [
-				"01a81e3be014236300000001"
-			]
-		},
-		{
 			"Name": "/Game/ThirdPerson/Maps/MainMenu",
 			"ExportBundleChunkIds": [
 				"03338a6caccc052f00000001"
@@ -15182,51 +14639,6 @@
 			],
 			"BulkDataChunkIds": [
 				"0e473a8317c34d1100000002"
-			]
-		},
-		{
-			"Name": "/Game/ThirdPerson/Maps/Volcanic_Caverns_Map_Floors_only_Map1Lava",
-			"ExportBundleChunkIds": [
-				"a0dd767e103dd26000000001"
-			],
-			"BulkDataChunkIds": [
-				"a0dd767e103dd26000000002"
-			]
-		},
-		{
-			"Name": "/Game/ThirdPerson/Maps/Volcanic_Caverns_Map_Floors_only_Map2Lava",
-			"ExportBundleChunkIds": [
-				"cf3d465176ef85cc00000001"
-			],
-			"BulkDataChunkIds": [
-				"cf3d465176ef85cc00000002"
-			]
-		},
-		{
-			"Name": "/Game/ThirdPerson/Maps/Volcanic_Caverns_Map_Floors_only_Map3Lava",
-			"ExportBundleChunkIds": [
-				"8a8e461d7a4e5d5e00000001"
-			],
-			"BulkDataChunkIds": [
-				"8a8e461d7a4e5d5e00000002"
-			]
-		},
-		{
-			"Name": "/Game/ThirdPerson/Maps/Volcanic_Caverns_Map_Floors_only_Map4Lava",
-			"ExportBundleChunkIds": [
-				"f423f201f3d4168f00000001"
-			],
-			"BulkDataChunkIds": [
-				"f423f201f3d4168f00000002"
-			]
-		},
-		{
-			"Name": "/Game/ThirdPerson/Maps/Volcanic_Caverns_Map_Floors_only_Map5Lava",
-			"ExportBundleChunkIds": [
-				"b59709add1ddbda800000001"
-			],
-			"BulkDataChunkIds": [
-				"b59709add1ddbda800000002"
 			]
 		},
 		{

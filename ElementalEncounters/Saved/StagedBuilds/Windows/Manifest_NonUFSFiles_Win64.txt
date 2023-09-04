@@ -20,4 +20,4 @@ Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2023-07-14T20:43:54.17
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2023-07-14T20:44:37.902Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-07-14T20:44:37.903Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-07-14T20:44:44.471Z
-ElementalEncounters.exe	2023-09-04T07:52:19.025Z
+ElementalEncounters.exe	2023-09-02T11:43:02.881Z
