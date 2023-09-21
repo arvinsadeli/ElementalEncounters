@@ -20,4 +20,7 @@ Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2023-07-14T20:43:54.17
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2023-07-14T20:44:37.902Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-07-14T20:44:37.903Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-07-14T20:44:44.471Z
-ElementalEncounters.exe	2023-09-04T15:34:51.650Z
+ElementalEncounters/Content/Movies/ILEDAS Splash.mp4	2023-09-04T16:12:24.625Z
+ElementalEncounters/Content/Movies/SusehIntro.mp4	2023-09-04T16:12:33.600Z
+ElementalEncounters/Content/Movies/Unreal Splash.mp4	2023-09-04T16:12:38.228Z
+ElementalEncounters.exe	2023-09-04T16:36:53.355Z
